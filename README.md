@@ -2,17 +2,12 @@
 
 GeometricSolver is a mobile application written in Java that implements a Geometry Problem Solver on Android. The app demonstrates geometry logic processing and interactive UI/UX design using the Android SDK and Framework.
 
-📌 Features
-
-🧠 Solves geometry problems programmatically using core logic
-
-📱 Built as a native Android app with Java
-
-🎨 User-friendly interface showcasing geometric computations
-
-📚 Focused on learning and demonstrating geometry logic on mobile
-
-🛠️ Technologies
+Features
+Solves geometry problems programmatically using core logic
+Built as a native Android app with Java
+User-friendly interface showcasing geometric computations
+Focused on learning and demonstrating geometry logic on mobile
+Technologies
 
 The project uses the following:
 
@@ -22,7 +17,7 @@ Android SDK & Framework — UI and platform integration
 
 Gradle — Build and dependency management
 
-🚀 Getting Started
+Getting Started
 
 To run this application locally:
 
@@ -43,7 +38,7 @@ Choose an Android device or emulator
 
 Press Run to install and launch
 
-🧩 Usage
+Usage
 
 Once the app is running:
 
@@ -55,16 +50,7 @@ The app computes solutions using built-in geometric logic
 
 (You can customize or extend problem types as needed.)
 
-📁 Project Structure
-geometricSolver/
-├── app/                  # Android application code
-├── gradle/               # Gradle wrapper files
-├── .gitignore
-├── build.gradle
-├── settings.gradle
-└── gradle.properties
-
-📈 Contribution
+Contribution
 
 Contributions are welcome! You can:
 
@@ -78,10 +64,3 @@ Fix bugs or optimize performance
 
 Just open a pull request or issue!
 
-📄 License
-
-This project is open-source and available under the MIT License. Feel free to use, modify, or distribute it.
-
-🙌 Acknowledgments
-
-Thanks to everyone learning and building open-source Android applications. Your contributions make great tools for developers and learners alike!
